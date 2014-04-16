@@ -1,7 +1,7 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-VERSION = "0.0.4"
+VERSION = "0.0.5"
 
 Gem::Specification.new do |spec|
   spec.name          = "wkhtmltopdf-heroku"
