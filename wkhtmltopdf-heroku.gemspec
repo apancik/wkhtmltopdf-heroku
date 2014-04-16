@@ -5,7 +5,7 @@ VERSION = "0.0.1"
 
 Gem::Specification.new do |spec|
   spec.name          = "wkhtmltopdf-heroku"
-  spec.version       = Wkhtmltopdf::Heroku::New::VERSION
+  spec.version       = VERSION
   spec.authors       = ["Andrej Pancik"]
   spec.email         = ["andrej@pancik.com"]
   spec.summary       = %q{wkhtmltopdf binaries heroku}
