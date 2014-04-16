@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 VERSION = "0.0.1"
 
 Gem::Specification.new do |spec|
-  spec.name          = "wkhtmltopdf-heroku-new"
+  spec.name          = "wkhtmltopdf-heroku"
   spec.version       = Wkhtmltopdf::Heroku::New::VERSION
   spec.authors       = ["Andrej Pancik"]
   spec.email         = ["andrej@pancik.com"]
